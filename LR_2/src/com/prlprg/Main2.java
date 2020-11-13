@@ -1,7 +1,7 @@
 package src.com.prlprg;
 
 public class Main2 {
-    private static final int N = 100000;
+    private static final int N = 100;
 
     private static long[] createArr() {
         long[] arr = new long[N];

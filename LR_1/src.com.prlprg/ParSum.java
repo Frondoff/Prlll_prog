@@ -27,7 +27,6 @@ public class ParSum {
             e.getCause();
         }
 
-
         for (ParSumThread thread : parSumThreads) {
             result += thread.getPartSum();
         }
